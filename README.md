@@ -1,9 +1,19 @@
 ## Hi there 👋
 
-### I'm Ervandra Halim a Technology Consultant from Jakarta, Indonesia 🇮🇩
+### I'm Ervandra Halim, (self-proclaimed) Passionate Software Engineer from Indonesia 🇮🇩
 🚀 My Mission: `Combining Technology & Creativity For A Greater Impact.`
 
-As a Technology Consultant who helps people leveraging technology to grow their business and technology implementation. I have a team that develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern infrastructures.
+Currently, most of my time devoted into building Indonesia Team (20+ highly-talented individuals) to deliver better and high-quality technology solutions, including :
+- Technical discussion, consultation, estimation and proposal.
+- Business requirement translated into technical requirements.
+- Technical feasibility and solution architecture.
+- Technical design & UI/UX design
+- High-level prototype / MVP
+- Project development roadmap (sprints - Agile)
+- Deployments (CI/CD) and QA Testing
+- Performance audit and analytics
+
+As a Technology Enthusiast who helps people leveraging technology to grow their business/company with technology implementation. I have a team that develop exceptional websites, web apps and mobile apps that provide intuitive, pixel-perfect user interfaces with efficient and modern infrastructures.
 
 <!--
 **ervandra/ervandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
