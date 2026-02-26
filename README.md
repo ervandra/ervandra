@@ -1,24 +1,35 @@
-## Hi there 👋
+## Ervandra Halim
 
-### I'm Ervandra Halim, (self-proclaimed) Passionate Software Engineer from Indonesia 🇮🇩
-🚀 My Mission: `Combining Technology & Creativity For A Greater Impact.`
+**CTO & Co-Founder @Syntax Solution · Strategic Tech Partner**
 
-Currently, most of my time devoted into building Indonesia Team (20+ highly-talented individuals) to deliver better and high-quality technology solutions, including :
-- Technical discussion, consultation, estimation and proposal.
-- Business requirement translated into technical requirements.
-- Technical feasibility and solution architecture.
-- Technical design & UI/UX design
-- High-level prototype / MVP
-- Project development roadmap (sprints - Agile)
-- Deployments (CI/CD) and QA Testing
-- Performance audit and analytics
+I architect digital systems that outlast the project and outgrow the plan.
 
-As a Technology Enthusiast who helps people leveraging technology to grow their business/company with technology implementation. I have a team that develop exceptional websites, web apps and mobile apps that provide intuitive, pixel-perfect user interfaces with efficient and modern infrastructures.
+15+ years building software, from startups to enterprise. Currently leading a 20+ engineering team at [Syntax Solution](https://syntax.id), delivering tailored software and digital transformation for businesses across Indonesia and beyond.
 
-<!--
-**ervandra/ervandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
 
-- 🔭 I’m providing IT Consultations and Web Apps Development.
-- 💬 Ask me about startups, web and apps developments, mobile applications, and digital marketing. personal branding as well.
-- 📫 How to reach me: hi@ervandra.com
+### What I Do
+
+⚡️ **Systems Architecture**: Designing scalable, maintainable systems from day one
+
+⚡️ **Fractional CTO / Tech Partner**: Strategic technology leadership for growing businesses
+
+⚡️ **Full-Cycle Delivery**: From technical feasibility to production deployment
+
+### How I Work
+
+- Business requirements → technical architecture → working software
+- Solution design, feasibility analysis, and honest technical consultation
+- High-level prototyping, MVP development, and iterative roadmaps
+- CI/CD pipelines, QA strategy, and performance optimization
+- Team leadership, mentoring, and engineering culture
+
+### Tech
+
+`React` `Next.js` `Node.js` `TypeScript` `System Architecture` `Cloud Infrastructure`
+
+---
+
+💼 Open to **fractional CTO engagements** and **strategic tech partnerships** — [let's talk](mailto:ervandra.halim@gmail.com) or visit [www.ervandra.dev](https://www.ervandra.dev)
+
+📍 Indonesia 🇮🇩
